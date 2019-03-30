@@ -7,6 +7,7 @@ This is my first node app which is a todo app. In this small app I was just expl
 * **Backend:** Node JS, Express JS, Mongo DB
 
 ## Features
+* Created rest API in express
 * Add new todo
 * Delete old todo
 * List of all todos
