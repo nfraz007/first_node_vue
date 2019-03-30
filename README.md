@@ -1,9 +1,9 @@
 # First Node Express Vue MongoDB APP
 
-This is my first node app which is a todo app. In this small app I was just exploring node. In this I have learnt some basic stuff about this latest framework.
+This is my first node app which is a todo app. In this small app I was just exploring node. In this I have learn some basic stuff about this latest framework. I have used MVC architechture for creating API, axios for calling API.
 
 ## Technologies
-* **Frontend:** Vue JS, Bootstrap, SCSS
+* **Frontend:** Vue JS, Bootstrap, SCSS, Axios
 * **Backend:** Node JS, Express JS, Mongo DB
 
 ## Features
