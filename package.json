@@ -1,0 +1,22 @@
+{
+  "name": "first_node_vue",
+  "version": "1.0.0",
+  "description": "This is my first node app which is basically a todo app for learning purpose. frontend vue and backend express and database mongodb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "dev": "nodemon backend/index.js"
+  },
+  "author": "Nazish Fraz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
